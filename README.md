@@ -11,7 +11,7 @@
 - CSS
 
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://felix45.github.io/hello-microverse/)
 
