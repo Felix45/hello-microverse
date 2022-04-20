@@ -55,7 +55,7 @@ Start the http application server
 
 ## Author
 
-👤 **Author1**
+👤 **Felix Ouma**
 
 - GitHub: [@Felix45](https://github.com/Felix45)
 - Twitter: [@Felix_Atonoh](https://twitter.com/Felix_Atonoh)
