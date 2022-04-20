@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Felix45/hello-microverse/issues"
   },
-  "homepage": "https://github.com/Felix45/hello-microverse#readme"
+  "homepage": "https://github.com/Felix45/hello-microverse#readme",
+  "devDependencies": {
+    "hint": "^6.1.11"
+  }
 }
